@@ -1,0 +1,8 @@
+.rider/
+.idea/
+.vs/
+.vscode/
+Source/SalvationMod/.idea
+Source/SalvationMod/bin/*
+Source/SalvationMod/obj/*
+Source/SalvationMod/SalvationMod.sln.DotSettings.user
